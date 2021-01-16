@@ -10,3 +10,4 @@
 1433 - input buffer and output buffer schematics complete. working on adding bypass circuit into these\
 1440 - power cct with protect diode schematic complete.\
 1455 - passive bypass cct complete. that was a headache. 3pdt on-on switch should work fine i think.\
+1501 - just kidding i did it wrong. blargh. switches make my head hurt. taking a break to walk the dogs.\
