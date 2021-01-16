@@ -4,3 +4,4 @@
 1211 - oooo if it's all analog that's kinda different.\
 1224 - definitely doing a noise gate in there somewhere. probably just a flat cutoff below certain dB that can be adjusted by a pot, from 0db to -70db or something like that. not sure how to do a decay time circuit though. gonna have to lookup some reference ccts for this.\
 1227 - pedal will run off of standard reverse polarity dc 9v input jack, no battery option (pain and hardly used).\
+1309 - seeing the same cct over and over again, seems like some kind of bypass thingy. spice time
