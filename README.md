@@ -9,3 +9,4 @@
 1403 - block diagram of general cct complete. refining output buffer schematic. have general idea of input buffer schematic. need to find idea on toan zoan (kmac) controls (basic bass mids treble cut/boost pot circuit). effect ccts to come later. going to do true bypass in passive form as i found an easy cct online.\
 1433 - input buffer and output buffer schematics complete. working on adding bypass circuit into these\
 1440 - power cct with protect diode schematic complete.\
+1455 - passive bypass cct complete. that was a headache. 3pdt on-on switch should work fine i think.\
