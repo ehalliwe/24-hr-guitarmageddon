@@ -6,4 +6,5 @@
 1227 - pedal will run off of standard reverse polarity dc 9v input jack, no battery option (pain and hardly used).\
 1309 - seeing the same cct over and over again, seems like some kind of bypass thingy. spice time\
 1340 - cct understood. i have a design based on BOSS pedals for the on/off stomp switch. will do true bypass later if i have time, otherwise meh. going to work on input and output buffers now\
-1403 - block diagram of general cct complete. refining output buffer schematic. have general idea of input buffer schematic. need to find idea on toan zoan (kmac) controls (basic bass mids treble cut/boost pot circuit). effect ccts to come later. going to do true bypass in passive form as i found an easy cct online.  
+1403 - block diagram of general cct complete. refining output buffer schematic. have general idea of input buffer schematic. need to find idea on toan zoan (kmac) controls (basic bass mids treble cut/boost pot circuit). effect ccts to come later. going to do true bypass in passive form as i found an easy cct online.\ 
+1433 - input buffer and output buffer schematics complete. working on adding bypass circuit into these\
