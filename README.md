@@ -16,3 +16,4 @@
 1710 - made a stupid logo :)\
 1743 - decided to do a ripoff of the boss ge7 for equalization, 4 pots controlling 100Hz, 400Hz, 1.6kHz & 6.4kHz channels. that's almost done. effects section next\
 1806 - found a github repo with a ge7 spice model already in it. might piggyback on that to create my spice model of this whole thing as it seems like a beast right now.\
+1835 - distortion stage complete. all schematics now theoretically complete.\
