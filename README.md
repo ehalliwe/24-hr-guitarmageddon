@@ -14,3 +14,4 @@
 1633 - switch schematic fixed.\
 1701 - noise gates are more complicated than i initially expected in terms of design as well as understanding them. the double diodes are throwing me for a loop... not sure what's going on there. i found a schematic online that i'll just plug and chug with. now onto toan zoan\
 1710 - made a stupid logo :)\
+1743 - decided to do a ripoff of the boss ge7 for equalization, 4 pots controlling 100Hz, 400Hz, 1.6kHz & 6.4kHz channels. 
