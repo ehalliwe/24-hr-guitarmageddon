@@ -12,4 +12,5 @@
 1455 - passive bypass cct complete. that was a headache. 3pdt on-on switch should work fine i think.\
 1501 - just kidding i did it wrong. blargh. switches make my head hurt. taking a break to walk the dogs.\
 1633 - switch schematic fixed.\
-1701- noise gates are more complicated than i initially expected in terms of design as well as understanding them. the double diodes are throwing me for a loop... not sure what's going on there. i found a schematic online that i'll just plug and chug with. now onto toan zoan\
+1701 - noise gates are more complicated than i initially expected in terms of design as well as understanding them. the double diodes are throwing me for a loop... not sure what's going on there. i found a schematic online that i'll just plug and chug with. now onto toan zoan\
+1710 - made a stupid logo :)\
