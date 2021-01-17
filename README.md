@@ -21,3 +21,5 @@
 2219 - I RAN IT AND IT ACTUALLY KINDA WORKED NO WAY\
 2230 - the equalizer works, ran sweeps for each of the 4 pots.\
 2239 - the volume knob works but is a bit sensitive, the noise gate works.\
+2245 - i don't think the gain knob works but i'm not sure how to fix that. bigger sim range maybe?\
+2320 - sleep time.\
