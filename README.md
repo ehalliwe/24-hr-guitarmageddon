@@ -18,3 +18,6 @@
 1806 - found a github repo with a ge7 spice model already in it. might piggyback on that to create my spice model of this whole thing as it seems like a beast right now.\
 1835 - distortion stage complete. all schematics now theoretically complete.\
 2157 - spice model schematic complete, potentiometers suck. need to add all the directives now\
+2219 - I RAN IT AND IT ACTUALLY KINDA WORKED NO WAY\
+2230 - the equalizer works, ran sweeps for each of the 4 pots.\
+2239 - the volume knob works but is a bit sensitive, the noise gate works.\

@@ -1,0 +1,88 @@
+Circuit: * C:\Users\Erik\Documents\absat\github shit\ualberta-hackED-2021\guitarmageddon.asc
+
+R28: both pins shorted together -- ignoring.
+R30: both pins shorted together -- ignoring.
+R33: both pins shorted together -- ignoring.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 5.39199e-007
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 5.31194e-007
+vernier = 0.0138889
+Gmin = 5.14876e-007
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 4.88626e-007
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 4.49565e-007
+vernier = 0.0585276
+Gmin = 3.94441e-007
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 3.16975e-007
+vernier = 0.138732
+vernier = 0.184976
+Gmin = 2.24187e-007
+vernier = 0.246634
+Gmin = 1.30668e-007
+vernier = 0.328846
+vernier = 0.438461
+Gmin = 5.36546e-008
+vernier = 0.584614
+vernier = 0.779486
+Gmin = 1.34636e-008
+vernier = 1
+Gmin = 1.73148e-009
+Gmin = 1.85916e-010
+Gmin = 1.99626e-011
+Gmin = 2.14347e-012
+Gmin = 2.30153e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step r_gain=1
+.step r_gain=10001
+.step r_gain=20001
+.step r_gain=30001
+.step r_gain=40001
+.step r_gain=50001
+.step r_gain=60001
+.step r_gain=70001
+.step r_gain=80001
+.step r_gain=90001
+.step r_gain=100000
+
+Date: Sat Jan 16 22:37:08 2021
+Total elapsed time: 1.718 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1274
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 95
+fillins = 210
+solver = Normal
+Matrix Compiler1:     910 opcodes
+Matrix Compiler2: 12.26 KB object code size  0.7/1.0/[0.5]
+
