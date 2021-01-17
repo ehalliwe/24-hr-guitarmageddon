@@ -24,3 +24,4 @@
 2245 - i don't think the gain knob works but i'm not sure how to fix that. bigger sim range maybe?\
 2320 - sleep time.\
 1037 - devpost almost complete, last minute changes done. Might try adding in some extra simulation results if I can do some multi-parameter sweeps.\
+1106 - devpost complete, presentation complete.\
